@@ -1,0 +1,16 @@
+{
+  "titleBar": "Emarat Misr",
+  "Stations": "Stations",
+  "about": "About",
+  "home": "Menu",
+  "main": "Home",
+  "search" : "Search Address",
+  "exit": "Exit",
+  "lang-ar":"العربية",
+  "lang-en": "English",
+  "name" : "Name : ",
+  "address":"Address : ",
+  "postal-code": "Postal-Code : ",
+  "drop":"Go",
+  "gov": "Select Gov .."
+}
